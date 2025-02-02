@@ -1,0 +1,201 @@
+CustomerID,Gender,Age,Annual Income (k$),Spending Score (1-100),Occupation,Education Level,Marital Status,Number of Children,Membership Duration (years)
+1,Male,49,22,12,Artist,PhD,Divorced,2,5
+2,Female,56,41,25,Doctor,Master,Divorced,2,8
+3,Male,66,41,52,Doctor,Bachelor,Divorced,4,7
+4,Male,69,35,85,Doctor,Bachelor,Widowed,0,7
+5,Male,49,44,53,Student,High School,Widowed,4,7
+6,Female,21,111,23,Student,Bachelor,Married,2,8
+7,Male,47,42,16,Teacher,PhD,Divorced,2,1
+8,Male,54,125,57,Teacher,Bachelor,Divorced,0,4
+9,Male,40,75,39,Doctor,Master,Single,3,6
+10,Female,56,62,53,Artist,Bachelor,Widowed,1,9
+11,Male,62,18,42,Engineer,High School,Divorced,2,2
+12,Male,32,49,58,Student,Bachelor,Married,2,1
+13,Male,60,63,39,Artist,Master,Married,3,2
+14,Male,46,31,14,Lawyer,Master,Widowed,3,7
+15,Female,53,60,95,Student,PhD,Married,4,3
+16,Male,30,131,5,Student,Bachelor,Married,4,2
+17,Female,49,20,35,Teacher,Master,Widowed,1,7
+18,Female,24,113,87,Engineer,High School,Divorced,1,2
+19,Female,68,138,93,Engineer,PhD,Divorced,0,3
+20,Male,39,51,75,Lawyer,High School,Married,4,7
+21,Female,45,38,18,Lawyer,Bachelor,Married,2,4
+22,Male,19,107,76,Student,Bachelor,Divorced,4,1
+23,Female,59,60,9,Doctor,Bachelor,Widowed,2,5
+24,Female,62,109,74,Teacher,PhD,Married,3,9
+25,Female,23,113,58,Teacher,Master,Single,4,8
+26,Female,45,130,17,Student,PhD,Widowed,3,9
+27,Female,45,81,7,Artist,High School,Married,1,9
+28,Female,61,142,46,Doctor,PhD,Married,1,7
+29,Female,61,32,13,Student,High School,Single,0,4
+30,Female,37,39,40,Doctor,PhD,Single,4,5
+31,Male,47,68,42,Doctor,Master,Divorced,3,1
+32,Male,28,72,9,Doctor,High School,Widowed,2,1
+33,Female,45,81,50,Student,Bachelor,Widowed,1,3
+34,Female,42,118,27,Teacher,Bachelor,Divorced,1,8
+35,Female,56,38,66,Teacher,PhD,Widowed,2,2
+36,Male,50,128,5,Doctor,Bachelor,Widowed,3,4
+37,Female,18,46,29,Artist,High School,Widowed,3,2
+38,Male,44,100,37,Engineer,Bachelor,Widowed,4,5
+39,Male,69,141,38,Student,Master,Widowed,4,9
+40,Male,30,144,83,Engineer,Master,Single,0,1
+41,Male,58,31,8,Artist,PhD,Widowed,1,5
+42,Male,20,118,65,Student,High School,Single,4,9
+43,Female,56,57,86,Doctor,Master,Widowed,3,1
+44,Female,23,53,17,Teacher,Master,Divorced,2,9
+45,Female,25,40,71,Engineer,High School,Married,3,8
+46,Female,44,113,89,Lawyer,Bachelor,Single,1,4
+47,Female,26,64,45,Lawyer,Bachelor,Widowed,3,5
+48,Male,54,27,4,Artist,PhD,Divorced,0,5
+49,Female,50,74,36,Doctor,Bachelor,Married,1,6
+50,Female,68,149,70,Engineer,High School,Single,2,7
+51,Male,59,71,31,Doctor,Master,Married,0,8
+52,Female,61,50,19,Engineer,Bachelor,Divorced,1,8
+53,Male,41,34,61,Artist,PhD,Single,2,2
+54,Female,32,79,54,Artist,Bachelor,Married,0,9
+55,Male,49,22,39,Lawyer,High School,Widowed,0,7
+56,Female,49,129,91,Doctor,PhD,Single,1,4
+57,Female,41,106,74,Student,Bachelor,Married,4,4
+58,Male,58,112,90,Lawyer,PhD,Divorced,0,8
+59,Male,69,80,19,Doctor,High School,Divorced,0,4
+60,Male,66,46,39,Lawyer,Master,Single,2,6
+61,Male,66,100,67,Student,High School,Married,3,5
+62,Male,69,65,45,Teacher,High School,Single,1,3
+63,Male,29,77,13,Teacher,High School,Single,1,2
+64,Male,56,139,92,Teacher,High School,Married,4,9
+65,Male,19,72,58,Teacher,Master,Married,4,9
+66,Female,20,72,20,Engineer,Master,Widowed,1,1
+67,Female,66,100,92,Teacher,PhD,Married,4,3
+68,Male,54,63,72,Student,Bachelor,Divorced,2,8
+69,Female,66,84,61,Artist,Master,Single,1,6
+70,Female,34,29,39,Artist,Master,Single,4,5
+71,Female,66,68,1,Engineer,Bachelor,Divorced,1,5
+72,Female,19,115,3,Teacher,Master,Married,3,6
+73,Male,19,22,77,Teacher,High School,Divorced,0,7
+74,Female,45,67,92,Teacher,High School,Divorced,1,1
+75,Male,40,74,62,Lawyer,Bachelor,Widowed,0,9
+76,Female,54,122,63,Doctor,PhD,Divorced,4,3
+77,Female,49,19,25,Lawyer,PhD,Single,0,4
+78,Female,50,117,56,Doctor,Bachelor,Divorced,1,1
+79,Male,18,20,33,Teacher,Bachelor,Single,3,3
+80,Female,36,123,38,Teacher,High School,Single,4,2
+81,Male,19,130,6,Lawyer,PhD,Single,1,2
+82,Female,61,108,58,Lawyer,Master,Married,4,1
+83,Male,43,61,44,Doctor,High School,Widowed,2,8
+84,Female,49,113,45,Artist,Bachelor,Single,0,3
+85,Male,23,69,32,Doctor,PhD,Single,2,3
+86,Male,49,66,45,Lawyer,Master,Married,1,6
+87,Female,21,27,61,Student,Master,Single,3,8
+88,Male,28,128,47,Lawyer,High School,Divorced,4,9
+89,Female,34,138,21,Student,PhD,Divorced,0,9
+90,Female,55,120,80,Engineer,PhD,Widowed,4,4
+91,Female,41,134,85,Lawyer,Bachelor,Single,1,5
+92,Female,22,77,75,Engineer,PhD,Married,4,2
+93,Female,69,33,36,Artist,PhD,Divorced,0,9
+94,Female,51,106,99,Doctor,High School,Married,1,8
+95,Female,23,72,19,Student,PhD,Married,4,3
+96,Female,39,104,20,Doctor,Master,Divorced,3,9
+97,Female,28,131,57,Engineer,High School,Married,1,3
+98,Female,65,76,18,Student,High School,Divorced,1,9
+99,Female,33,37,47,Doctor,Bachelor,Married,3,2
+100,Male,50,141,49,Lawyer,PhD,Divorced,2,9
+101,Male,26,143,14,Teacher,Bachelor,Single,0,8
+102,Female,23,72,15,Engineer,Master,Widowed,2,9
+103,Female,33,136,31,Doctor,High School,Divorced,4,5
+104,Female,46,15,1,Engineer,High School,Divorced,3,2
+105,Female,20,48,54,Engineer,High School,Widowed,2,8
+106,Female,37,110,3,Student,Master,Divorced,1,6
+107,Female,53,140,16,Student,Master,Divorced,4,8
+108,Female,36,132,87,Teacher,Bachelor,Married,4,5
+109,Female,43,62,57,Lawyer,Bachelor,Widowed,2,2
+110,Male,20,103,75,Engineer,Bachelor,Single,2,6
+111,Female,36,131,12,Doctor,PhD,Divorced,3,5
+112,Male,37,143,74,Artist,High School,Widowed,0,5
+113,Female,49,30,96,Engineer,High School,Married,2,1
+114,Female,24,83,16,Engineer,Bachelor,Single,2,2
+115,Male,69,36,72,Teacher,High School,Widowed,1,8
+116,Female,58,107,76,Lawyer,Bachelor,Single,4,3
+117,Male,50,90,24,Artist,PhD,Single,0,3
+118,Female,57,100,28,Student,PhD,Single,1,8
+119,Female,56,43,8,Student,Master,Divorced,3,8
+120,Male,35,83,92,Doctor,PhD,Divorced,3,2
+121,Female,57,61,36,Artist,Bachelor,Married,2,8
+122,Male,18,108,90,Student,PhD,Married,2,1
+123,Female,28,99,8,Doctor,Master,Widowed,3,6
+124,Male,45,53,58,Lawyer,High School,Married,2,8
+125,Male,42,114,60,Doctor,Bachelor,Single,0,3
+126,Female,67,47,50,Student,High School,Single,2,8
+127,Female,40,115,28,Teacher,Master,Divorced,4,1
+128,Male,48,37,92,Teacher,Master,Single,2,9
+129,Female,47,24,41,Teacher,Master,Widowed,1,9
+130,Female,59,83,64,Student,High School,Single,0,5
+131,Female,52,114,27,Teacher,High School,Single,1,4
+132,Male,24,48,63,Artist,High School,Widowed,1,6
+133,Male,33,110,17,Lawyer,High School,Married,4,7
+134,Male,43,15,73,Doctor,Master,Married,0,5
+135,Male,65,83,33,Doctor,Master,Widowed,0,9
+136,Male,69,18,84,Student,Bachelor,Divorced,0,3
+137,Male,66,30,77,Teacher,Bachelor,Single,0,7
+138,Male,19,38,92,Teacher,High School,Widowed,0,5
+139,Male,18,94,29,Engineer,PhD,Single,4,7
+140,Male,65,16,13,Lawyer,PhD,Divorced,2,2
+141,Female,29,142,46,Artist,Master,Single,1,4
+142,Male,22,98,35,Doctor,Master,Widowed,0,2
+143,Female,54,138,6,Engineer,Master,Single,2,7
+144,Female,49,47,82,Engineer,Bachelor,Married,2,2
+145,Female,26,115,69,Student,Bachelor,Divorced,1,1
+146,Male,58,26,47,Doctor,Master,Divorced,4,9
+147,Male,52,81,25,Student,Master,Divorced,3,1
+148,Male,36,79,66,Artist,Master,Widowed,3,8
+149,Male,65,88,10,Engineer,PhD,Divorced,2,2
+150,Female,33,57,56,Engineer,Bachelor,Married,1,8
+151,Male,20,58,30,Lawyer,PhD,Widowed,3,3
+152,Male,37,43,5,Artist,PhD,Married,2,6
+153,Male,41,26,33,Engineer,Master,Single,4,3
+154,Male,50,109,65,Artist,Master,Single,3,7
+155,Male,41,60,18,Doctor,High School,Single,2,9
+156,Female,69,144,96,Teacher,High School,Single,2,2
+157,Male,28,49,49,Engineer,PhD,Married,0,5
+158,Female,66,95,11,Lawyer,Bachelor,Widowed,4,6
+159,Male,25,104,85,Doctor,Master,Widowed,0,4
+160,Female,53,22,26,Artist,Master,Divorced,1,4
+161,Male,55,107,63,Student,PhD,Married,0,4
+162,Male,57,104,89,Doctor,High School,Single,0,2
+163,Female,37,129,86,Engineer,Bachelor,Married,3,4
+164,Female,52,119,59,Artist,High School,Divorced,2,1
+165,Female,65,149,27,Teacher,High School,Divorced,4,6
+166,Male,42,72,49,Doctor,High School,Married,0,1
+167,Female,52,128,77,Engineer,High School,Married,4,6
+168,Male,42,89,33,Lawyer,Master,Married,0,1
+169,Male,46,134,98,Student,Master,Widowed,1,6
+170,Female,35,35,99,Artist,High School,Single,0,8
+171,Female,63,115,1,Doctor,Bachelor,Married,3,2
+172,Male,35,113,21,Doctor,PhD,Married,2,2
+173,Male,19,50,55,Teacher,Bachelor,Married,1,4
+174,Female,52,110,6,Teacher,Bachelor,Divorced,0,3
+175,Female,33,51,92,Lawyer,Bachelor,Divorced,4,4
+176,Female,58,26,81,Student,High School,Widowed,1,7
+177,Male,53,127,69,Lawyer,Master,Single,1,1
+178,Male,50,27,95,Engineer,Bachelor,Widowed,0,6
+179,Male,21,37,5,Engineer,High School,Single,1,3
+180,Male,50,113,3,Lawyer,Bachelor,Divorced,4,7
+181,Male,31,119,53,Student,Bachelor,Divorced,1,2
+182,Male,38,44,23,Lawyer,High School,Divorced,4,2
+183,Female,65,31,53,Student,Master,Widowed,0,4
+184,Male,37,127,37,Student,Master,Married,2,1
+185,Male,25,76,74,Artist,PhD,Married,1,3
+186,Male,24,98,74,Student,High School,Divorced,2,9
+187,Female,20,126,83,Teacher,PhD,Married,4,7
+188,Male,34,100,17,Student,PhD,Married,1,7
+189,Male,50,33,85,Student,PhD,Widowed,3,4
+190,Female,65,114,78,Student,Master,Single,2,2
+191,Male,29,90,73,Engineer,High School,Divorced,1,4
+192,Male,68,23,1,Teacher,PhD,Divorced,2,6
+193,Male,39,42,51,Teacher,High School,Widowed,1,3
+194,Male,39,142,45,Lawyer,High School,Widowed,0,1
+195,Male,63,66,77,Artist,Master,Married,2,8
+196,Female,47,97,4,Student,PhD,Divorced,3,5
+197,Female,55,125,62,Doctor,PhD,Single,3,5
+198,Female,55,131,65,Artist,High School,Widowed,4,4
+199,Male,62,83,32,Artist,Bachelor,Single,1,6
+200,Male,68,113,34,Teacher,Master,Single,2,3
